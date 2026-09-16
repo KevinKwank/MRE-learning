@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="420" viewBox="0 0 1300 420">
+<rect width="1300" height="420" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#111" stroke="#111">
+  <text x="650" y="45" text-anchor="middle" font-size="30" font-weight="bold">How MRE research is evolving</text>
+  <rect x="40" y="120" width="260" height="180" rx="18" fill="white" stroke-width="3"/>
+  <text x="170" y="165" text-anchor="middle" font-size="24" font-weight="bold">External Evidence</text>
+  <text x="170" y="205" text-anchor="middle" font-size="19">Cross-Modal Retrieval</text>
+  <text x="170" y="238" text-anchor="middle" font-size="19">Selection + Consistency</text>
+  <text x="170" y="272" text-anchor="middle" font-size="18">ACL 2023</text>
+  <line x1="300" y1="210" x2="350" y2="210" stroke-width="4"/><polygon points="350,210 332,200 332,220" fill="#111"/>
+  <rect x="355" y="120" width="260" height="180" rx="18" fill="white" stroke-width="3"/>
+  <text x="485" y="165" text-anchor="middle" font-size="24" font-weight="bold">Relation Semantics</text>
+  <text x="485" y="205" text-anchor="middle" font-size="19">ROC</text>
+  <text x="485" y="238" text-anchor="middle" font-size="19">Classification → Retrieval</text>
+  <text x="485" y="272" text-anchor="middle" font-size="18">EMNLP 2025</text>
+  <line x1="615" y1="210" x2="665" y2="210" stroke-width="4"/><polygon points="665,210 647,200 647,220" fill="#111"/>
+  <rect x="670" y="120" width="260" height="180" rx="18" fill="white" stroke-width="3"/>
+  <text x="800" y="165" text-anchor="middle" font-size="24" font-weight="bold">Semantic Prototypes</text>
+  <text x="800" y="205" text-anchor="middle" font-size="19">PG-MRE</text>
+  <text x="800" y="238" text-anchor="middle" font-size="19">Entity Attributes + Prototypes</text>
+  <text x="800" y="272" text-anchor="middle" font-size="18">AAAI 2025</text>
+  <line x1="930" y1="210" x2="980" y2="210" stroke-width="4"/><polygon points="980,210 962,200 962,220" fill="#111"/>
+  <rect x="985" y="120" width="275" height="180" rx="18" fill="white" stroke-width="3"/>
+  <text x="1122" y="165" text-anchor="middle" font-size="24" font-weight="bold">Unified Relations</text>
+  <text x="1122" y="205" text-anchor="middle" font-size="19">REMOTE</text>
+  <text x="1122" y="238" text-anchor="middle" font-size="19">Text / Object / Cross-modal</text>
+  <text x="1122" y="272" text-anchor="middle" font-size="18">ACM MM 2025</text>
+</g>
+</svg>

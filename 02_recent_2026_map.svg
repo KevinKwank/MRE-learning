@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+<rect width="1400" height="760" fill="white"/>
+<g font-family="Arial, sans-serif" fill="#111" stroke="#111">
+<text x="700" y="48" text-anchor="middle" font-size="31" font-weight="bold">MRE / JMERE Research Map — 2026</text>
+
+<rect x="60" y="100" width="390" height="250" rx="20" fill="white" stroke-width="3"/>
+<text x="255" y="145" text-anchor="middle" font-size="25" font-weight="bold">Reliable Visual Evidence</text>
+<text x="255" y="195" text-anchor="middle" font-size="21">LCIM — reliability-aware alignment</text>
+<text x="255" y="235" text-anchor="middle" font-size="21">DGFFA — token-patch + OT</text>
+<text x="255" y="275" text-anchor="middle" font-size="21">KGRA — knowledge + relation graph</text>
+<text x="255" y="315" text-anchor="middle" font-size="18">grounding • alignment • noise control</text>
+
+<rect x="505" y="100" width="390" height="250" rx="20" fill="white" stroke-width="3"/>
+<text x="700" y="145" text-anchor="middle" font-size="25" font-weight="bold">Structured / Joint Extraction</text>
+<text x="700" y="195" text-anchor="middle" font-size="21">SMIR — span-based JMERE</text>
+<text x="700" y="235" text-anchor="middle" font-size="21">ToME — diagonal tagging</text>
+<text x="700" y="275" text-anchor="middle" font-size="21">CITR — implicit type-triple reasoning</text>
+<text x="700" y="315" text-anchor="middle" font-size="18">span • tagging • triple structure</text>
+
+<rect x="950" y="100" width="390" height="250" rx="20" fill="white" stroke-width="3"/>
+<text x="1145" y="145" text-anchor="middle" font-size="25" font-weight="bold">Continual Learning</text>
+<text x="1145" y="195" text-anchor="middle" font-size="21">MPCL — rehearsal-free prompts</text>
+<text x="1145" y="235" text-anchor="middle" font-size="21">MPBoCo — continual JMERE</text>
+<text x="1145" y="275" text-anchor="middle" font-size="18">frozen backbone • prompt memory</text>
+
+<rect x="275" y="420" width="390" height="230" rx="20" fill="white" stroke-width="3"/>
+<text x="470" y="470" text-anchor="middle" font-size="25" font-weight="bold">Data Distribution</text>
+<text x="470" y="520" text-anchor="middle" font-size="21">CMRE — long-tail MRE</text>
+<text x="470" y="560" text-anchor="middle" font-size="20">curriculum + meta-learning</text>
+<text x="470" y="600" text-anchor="middle" font-size="18">tail relations • Macro-F1</text>
+
+<rect x="735" y="420" width="390" height="230" rx="20" fill="white" stroke-width="3"/>
+<text x="930" y="470" text-anchor="middle" font-size="25" font-weight="bold">LVLM Reasoning</text>
+<text x="930" y="520" text-anchor="middle" font-size="21">MORE-R1</text>
+<text x="930" y="560" text-anchor="middle" font-size="20">SFT → GRPO</text>
+<text x="930" y="600" text-anchor="middle" font-size="18">stepwise reasoning • hard samples</text>
+</g>
+</svg>
