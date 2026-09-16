@@ -1,0 +1,58 @@
+{
+  "cutoff_date": "2026-09-16",
+  "recent_window": "approximately 2025-11-16 to 2026-09-16",
+  "selection_policy": "Direct MRE/JMERE/MORE/continual-MRE relevance; prioritize official source repositories.",
+  "recent_papers": [
+    {
+      "title": "LCIM",
+      "date": "2026-09",
+      "code": "https://github.com/liuxiyang641/LCIM"
+    },
+    {
+      "title": "MPBoCo",
+      "date": "2026-07",
+      "code": "https://github.com/xinyuucn/MPBoCo"
+    },
+    {
+      "title": "SMIR",
+      "date": "2026-07",
+      "code": null
+    },
+    {
+      "title": "ToME",
+      "date": "2026-07",
+      "code": null
+    },
+    {
+      "title": "CMRE",
+      "date": "2026-06",
+      "code": null
+    },
+    {
+      "title": "MPCL",
+      "date": "2026-05",
+      "code": null
+    },
+    {
+      "title": "DGFFA",
+      "date": "2026-04",
+      "code": null
+    },
+    {
+      "title": "KGRA",
+      "date": "2026-04",
+      "code": "https://github.com/djtuNLP/KGRA",
+      "code_status": "declared_by_paper_but_not_resolved_during_check"
+    },
+    {
+      "title": "CITR",
+      "date": "2026-03",
+      "code": null
+    },
+    {
+      "title": "MORE-R1",
+      "date": "2026-03",
+      "code": "https://github.com/MartinYuanNJU/MORE-R1"
+    }
+  ]
+}
